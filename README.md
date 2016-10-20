@@ -1,5 +1,17 @@
 # Tp3-MyHomePage
+<!DOCTYPE html>
+
 <html>
+<head>
+  <meta charset="UTF-8">
+    <title>Title of the document</title>
+      <style>
+        h1{color:red}
+        h2{color:red}
+      </style>
+<!--On utilise les balises <style> et <span> pour mettre du language CSS et règler les problematiques de presentation.-->
+</head>
+
 <body>
   <img src="Verratti.jpg" height="100" alt=" "/>
 <!--height dans la balise <img> sert à regler la taille de l'image en question-->
